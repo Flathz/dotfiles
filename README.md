@@ -1,4 +1,4 @@
-## how to install this machine on a new machine
+## how to install this repo on a new machine
 
 ## Requirements
 
